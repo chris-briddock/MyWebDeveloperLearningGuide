@@ -16,11 +16,13 @@ There's a lot to learn, but just take it bit by bit.
 
 Learning HTML
 W3Schools:https://www.w3schools.com/html/Mozilla:https://developer.
-mozilla.org/en-US/docs/Web/HTMLSemantic HTML:https://www.
-freecodecamp.org/news/semantic-html5-elements/  #:~:text=%
+mozilla.org/en-US/docs/Web/HTML
+
+Semantic HTML:https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=%
 EE%80%80Semantic%EE%80%81%20%EE%80%80HTML%EE%80%81%20elements%20are%
 20those%20that%20clearly%20describe,a%20great%20reference%20for%20all
 %20%EE%80%80HTML%EE%80%81%20elements%20
+
 DevTips:https://www.youtube.com/playlist?list=PLqGj3iMvMa4KlJn1pMYPVV
 3eYzxJlWcON  
 
@@ -112,7 +114,6 @@ You can also use visual studio code in a web browser, by using the
 below link.
 https://github.dev/
 
-
 【Backend Developement】
 
  There are a few languages you could do this in, however I'm only 
@@ -122,7 +123,6 @@ Coding Style Guides:
 https://google.github.io/styleguide/jsguide.html
 https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-
 style/coding-conventions
-
 
 【Learning Javascript Backend Development】
 
@@ -143,7 +143,6 @@ https://www.youtube.com/watch?v=YNyGD4rakmc&list=PLkqiWyX-_Lov8qmMOVn
 
 Traversy Media - Async Callbacks and Awaits
 https://www.youtube.com/watch?v=PoRJizFvM7s
-
 
 【Learning C# Backend Development】
 
