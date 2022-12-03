@@ -22,67 +22,67 @@ General Development:
 Frontend Development:
 
 Learning HTML
-W3Schools:
-https://www.w3schools.com/html/Mozilla:https://developer
+  W3Schools:
+    https://www.w3schools.com/html/
 
-Mozilla:
-https://mozilla.org/en-US/docs/Web/HTML
+  Mozilla:
+    https://developer.mozilla.org/en-US/docs/Web/HTML
 
-Semantic HTML:
-https://www.freecodecamp.org/news/semantic-html5-elements
+  Semantic HTML:
+    https://www.freecodecamp.org/news/semantic-html5-elements
 
-DevTips:
-https://www.youtube.com/playlist?list=PLqGj3iMvMa4KlJn1pMYPVV3eYzxJlWcON  
+  DevTips:
+    https://www.youtube.com/playlist?list=PLqGj3iMvMa4KlJn1pMYPVV3eYzxJlWcON  
 
 Learning CSS
   W3Schools:
-  https://www.w3schools.com/css/
+    https://www.w3schools.com/css/
   Mozilla:
-  https://developer.mozilla.org/en-US/docs/Web/CSS
+    https://developer.mozilla.org/en-US/docs/Web/CSS
   Enavto Tuts+:
-  https://www.youtube.com/watch?v=iG2jotQo9NI
+    https://www.youtube.com/watch?v=iG2jotQo9NI
   DevTips:
-  https://www.youtube.com/playlist?list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy
+    https://www.youtube.com/playlist?list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy
 
 Learning SASS
   learnCodeCamp.org on YouTube:
-  https://www.youtube.com/watch?v=_a5j7KoflTs
+    https://www.youtube.com/watch?v=_a5j7KoflTs
 
 Learning Networking
   IP Addresses:
-  https://www.cloudns.net/blog/what-is-ipv4-everything-you-need-to-know/
-  https://www.cloudns.net/blog/ipv4-vs-ipv6-internet-protocol/
+    https://www.cloudns.net/blog/what-is-ipv4-everything-you-need-to-know/
+    https://www.cloudns.net/blog/ipv4-vs-ipv6-internet-protocol/
 
   DNS:
-  https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/
-  https://phoenixnap.com/kb/dns-record-types
+    https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/
+    https://phoenixnap.com/kb/dns-record-types
 
   DHCP:
-  https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top
+    https://learn.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top
 
   freeCodeCamp.org networking crash course 
-  https://www.youtube.com/watch?v=WO6P92v61y4
+    https://www.youtube.com/watch?v=WO6P92v61y4
 
   Networking Funamentals:
-  Part 1 https://www.youtube.com/watch?v=cNwEVYkx2Kk
-  Part 2 https://www.youtube.com/watch?v=Ud8UeNgdaz4
-  Part 3 https://www.youtube.com/watch?v=y9PG-_ZNbWg
-  Part 4 https://www.youtube.com/watch?v=v8aYhOxZuNg
-  Part 5 https://www.youtube.com/watch?v=Tnjdk08z3HM 
+    Part 1 https://www.youtube.com/watch?v=cNwEVYkx2Kk
+    Part 2 https://www.youtube.com/watch?v=Ud8UeNgdaz4
+    Part 3 https://www.youtube.com/watch?v=y9PG-_ZNbWg
+    Part 4 https://www.youtube.com/watch?v=v8aYhOxZuNg
+    Part 5 https://www.youtube.com/watch?v=Tnjdk08z3HM 
 
   Default Gateway:
-  https://www.geeksforgeeks.org/default-gateway-in-networking/
+    https://www.geeksforgeeks.org/default-gateway-in-networking/
 
   Network Chuck CCNA:
-  https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
+    https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
 
   OSI Model:
-  https://www.imperva.com/learn/application-security/osi-model/
+    https://www.imperva.com/learn/application-security/osi-model/
 
 Learning HTTP
 
 Mozilla:
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+  https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
 Learning Javascript
 First you'll need to learn the basics of vanilla javascript.
@@ -114,12 +114,12 @@ Code Stoic - React JS:
   https://www.youtube.com/watch?v=oFBuPWCjbA4&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza
 
 Front End Development Online Playgrounds
-https://codepen.io/
-https://replit.com/signup
-https://codesandbox.io/
+  https://codepen.io/
+  https://replit.com/signup
+  https://codesandbox.io/
 
 You can also use visual studio code in a web browser, by using the below link.
-https://github.dev/
+  https://github.dev/
 
 Backend Developement
 
