@@ -113,6 +113,10 @@ TheNetNinja - React JS:
 Code Stoic - React JS:
   https://www.youtube.com/watch?v=oFBuPWCjbA4&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza
 
+Front end automating testing - there are many of these frameworks such as cypress.io and selenium.
+  LambdaTest:
+  https://youtube.com/watch?v=jX3v3N6oN5M
+  
 Front End Development Online Playgrounds
   https://codepen.io/
   https://replit.com/signup
@@ -194,6 +198,11 @@ Entity Framework
   Les Jackson:
     https://www.youtube.com/watch?v=S9HrLdSrVho&list=PLpSmZmoBaROYOxp50yy_uewyMr5rOmx1f
 
+Automated Unit Testing (there are several unit testing packages such as xUnit, nUnit and MSTest, I would use xUnit with another package called Moq)
+  Execute Automation:
+    https://youtube.com/playlist?list=PL6tu16kXT9Pq6aZHjfWYYkM6d3gGfb_uy
+  Mohamad Lawand:
+    https://youtu.be/AW7ZcMOtwC8
 
 Realtime Applications
   Yasir:
@@ -228,6 +237,10 @@ Non Relational Database - There are also many of these such as Mongo DB, Redis, 
 
     TimCorey:
       https://www.youtube.com/watch?v=exXavNOqaVo
+
+Load Testing C# APIs
+    Microsoft:
+   https://learn.microsoft.com/en-us/aspnet/core/test/load-tests
 
 Systems Architecture
   scoutapm.com:
@@ -277,6 +290,13 @@ Cloud - I'm going to recommend AWS, Azure, and GCP, I'd recommend picking one to
 
   Edureka:
     https://www.youtube.com/watch?v=tDuruX7XSac
+
+Both Backend and Frontend:
+  Blazor:
+    freeCodeCamp.org
+      https://youtu.be/4G_BzLxa9Nw
+   bUnit Automated User Interface Testing
+      https://youtu.be/AW7ZcMOtwC8
 
 Misc YouTube Channels:
   https://www.youtube.com/@nickchapsas
