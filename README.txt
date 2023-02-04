@@ -129,6 +129,12 @@ Backend Developement
 
 There are a few languages you could do this in, however I'm only going to recommend JavaScript, and C#.
 
+Four principles of OOP
+Keep on coding:
+  https://youtu.be/1ONhXmQuWP8
+Programming with mosh:
+  https://youtu.be/pTB0EiLXUC8
+
 Coding Style Guides:
   https://google.github.io/styleguide/jsguide.html
   https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
