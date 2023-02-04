@@ -135,6 +135,10 @@ Keep on coding:
 Programming with mosh:
   https://youtu.be/pTB0EiLXUC8
 
+SOLID principles within C#
+TechWebDots:
+  https://youtu.be/A5OD1gtaMm8
+
 Coding Style Guides:
   https://google.github.io/styleguide/jsguide.html
   https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
