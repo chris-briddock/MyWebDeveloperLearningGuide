@@ -185,6 +185,8 @@ Data Structures and Algorthims
   freecodeCamp.org
     https://www.youtube.com/watch?v=8hly31xKli0
 
+https://visualgo.net/en 
+
 C# Web API
 Teddy Smith:
   https://www.youtube.com/watch?v=_8nLSsK5NDo&list=PL82C6-O4XrHdiS10BLh23x71ve9mQCln0
@@ -308,8 +310,9 @@ Both Backend and Frontend:
    bUnit Automated User Interface Testing
       https://youtu.be/AW7ZcMOtwC8
 
-Misc YouTube Channels:
-  https://www.youtube.com/@nickchapsas
+Misc Resources:
+https://devdocs.io
+https://www.youtube.com/@nickchapsas
   https://www.youtube.com/@DotNetMastery
   https://www.youtube.com/@binarythistle
   https://www.youtube.com/@freecodecamp
